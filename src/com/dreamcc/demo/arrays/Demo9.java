@@ -1,4 +1,4 @@
-package com.dreamcc.leetcode.arrays;
+package com.dreamcc.demo.arrays;
 
 import java.util.ArrayList;
 import java.util.HashMap;

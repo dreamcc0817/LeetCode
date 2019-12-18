@@ -1,4 +1,4 @@
-package com.dreamcc.leetcode.string;
+package com.dreamcc.demo.string;
 
 /**
  * @Title: LeetCode

@@ -1,4 +1,4 @@
-package com.dreamcc.leetcode.arrays;
+package com.dreamcc.demo.arrays;
 
 /**
  * @Title: LeetCode

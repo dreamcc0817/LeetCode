@@ -1,4 +1,4 @@
-package com.dreamcc.leetcode.linked;
+package com.dreamcc.demo.linked;
 
 /**
  * @Title: LeetCode

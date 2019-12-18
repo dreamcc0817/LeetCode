@@ -1,4 +1,4 @@
-package com.dreamcc.leetcode.datastructure;
+package com.dreamcc.demo.datastructure;
 
 /**
  * @Title: LeetCode
